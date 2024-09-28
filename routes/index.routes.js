@@ -5,6 +5,8 @@ import { guardarTestimonal } from '../controllers/testimonialController.js';
 
 const router = express.Router();
 
+// Middleware para usar variables globales
+
 
 router.get('/', paginaInicio)
 

@@ -18,6 +18,7 @@ app.use((req,res,next)=> {
     next();
 })
 
+
 // para leer los datos de un formulario
 app.use(express.urlencoded({ extended: true }));
 
