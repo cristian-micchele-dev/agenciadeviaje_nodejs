@@ -6,7 +6,7 @@ async function conexionDB() {
     try {
         const conexion = await mysql.createConnection({
             host: process.env.BD_HOST,
-            database: process.env.BD_NOMBRE,
+            database: process.env.BD_NAME,
             user: process.env.BD_USER,
             password: process.env.BD_PASSWORD,
             port: process.env.BD_PORT 
