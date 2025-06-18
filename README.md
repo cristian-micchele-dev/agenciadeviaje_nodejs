@@ -143,4 +143,8 @@ Desarrollado por Cristian Micchele
 
 ## Soporte
 
+<<<<<<< HEAD
 Para reportar errores o solicitar características, por favor abre un issue en el repositorio de GitHub.
+=======
+Para reportar errores o solicitar características, por favor abre un issue en el repositorio de GitHub.
+>>>>>>> d2899eaac531b1513e1c4f846c3814631650b684
